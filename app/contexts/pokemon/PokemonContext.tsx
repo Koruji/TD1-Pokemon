@@ -39,9 +39,6 @@ export const PokemonProvider = ({children}: {children: ReactNode}) => {
         .catch(err => console.error(`Erreur : ${err}.`));
     }
 
-    useEffect(() => {
-        fetchPokemons();
-    }, []);
 
     return(
         <PokemonContext.Provider value={{

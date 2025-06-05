@@ -1,0 +1,46 @@
+.pokemon-section {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    justify-content: center;
+}
+
+.title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.pokemon-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.pokemon-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FFB2AB;
+    margin-bottom: 1rem;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
+}
+
+.btn {
+    background-color: black;
+    color: #F1494C;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    text-decoration: none;
+}
+
+.info {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+}
