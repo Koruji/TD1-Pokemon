@@ -11,4 +11,4 @@ https://pokeapi.co/api/v2/pokemon/{pokemon_name_or_id}
 
 _________________________________________________________
 ### Devoir noté - semaine ReactJS et communication vers une API<br>
-**Note** : ?/20
+**Note** : 10/10
